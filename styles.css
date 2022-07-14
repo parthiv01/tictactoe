@@ -1,0 +1,22 @@
+.cell{
+    background-color: lightgrey;
+    width: 15px;
+    height: 15px;
+    padding: 30px;
+    margin: 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1,h2,h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #F6F6F6;
+}
+grid{
+    margin:auto
+}
+body{
+    background-color: #0078AA;
+}
+h1{
+    color: #F2DF3A;
+}
